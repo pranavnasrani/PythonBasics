@@ -36,4 +36,3 @@ print(int_var)
 
 # for example:
 c = str(198)  # this will convert the number into a string, which is useful for concatenation.
-
