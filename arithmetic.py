@@ -1,4 +1,4 @@
-# arithmetic operators: +, -, *, /
+# todo arithmetic operators: +, -, *, /
 
 a = 10
 b = 3
@@ -7,7 +7,7 @@ print(round(a/b))
 # ** indices
 print(2**5)
 
-# COMPARISON OPERATORS: ==, <, !=
+# todo COMPARISON OPERATORS: ==, <, !=
 
 # TO CHECK if number is even:
 # We can use the modulo operator which sign is %. This will check the remainder.

@@ -16,7 +16,7 @@ last_name2 = input("What is your last name? ")
 result = first_name1 + " " + last_name2
 print(result)
 
-# Concatenation Number with String
+# todo Concatenation Number with String
 text = 'This is just text {} with value {}'
 num1 = 21
 num2 = 34
@@ -32,7 +32,7 @@ print(int_var)
 
 
 # We have a int (integer type), float (decimal), str (text)
-# We can also TODO transform int into str.
+# We can also  transform int into str.
 
 # for example:
 c = str(198)  # this will convert the number into a string, which is useful for concatenation.
